@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "290291994332",
+    "firebase_url": "https://groceryapp-a2494-default-rtdb.firebaseio.com",
+    "project_id": "groceryapp-a2494",
+    "storage_bucket": "groceryapp-a2494.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290291994332:android:7345e68cd720417eed2e19",
+        "android_client_info": {
+          "package_name": "com.example.freshmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRdZymENpIcbLBhD6RdywwszEvAGWG2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
