@@ -20,3 +20,6 @@ It integrates Firebase to store and manage data efficiently, providing a seamles
 - **Add to Cart**: Select desired items and add them to your shopping cart.
 - **Like Products**: Save products to your liked items list for quick access.
 - **Interactive Shopping**: Enjoy a user-friendly interface designed for an effortless shopping experience.
+
+## Screenshots
+![App Screenshot](https://github.com/DvirKakun/FreshMart/blob/main/Login-Screenshot.png)
