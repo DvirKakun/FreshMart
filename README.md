@@ -22,4 +22,12 @@ It integrates Firebase to store and manage data efficiently, providing a seamles
 - **Interactive Shopping**: Enjoy a user-friendly interface designed for an effortless shopping experience.
 
 ## Screenshots
+<img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/SplashActivity-Screenshot.jpg" width="150">
+<img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/Login-Screenshot.jpg" width="150">
+<img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/Signup-Screenshot.jpg" width="150">
 <img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/Categories-Screenshot.jpg" width="150">
+<img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/SearchProducts-Screenshot.jpg" width="150">
+<img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/EditItem-Screenshot.jpg" width="150">
+<img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/ShoppingCart-Screenshot.jpg" width="150">
+<img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/QuantityUpdate-Screenshot.jpg" width="150">
+<img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/Payment-Screenshot.jpg" width="150">
