@@ -22,4 +22,4 @@ It integrates Firebase to store and manage data efficiently, providing a seamles
 - **Interactive Shopping**: Enjoy a user-friendly interface designed for an effortless shopping experience.
 
 ## Screenshots
-<img src="https://github.com/DvirKakun/FreshMart/tree/main/blob/Login-Screenshot.jpg" width="50">
+<img src="https://github.com/DvirKakun/FreshMart/blob/38386927e03ebc173e81eaa427be7d0d546ab42d/blob/Categories-Screenshot.jpg" width="50">
